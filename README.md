@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chetan-pawar-21/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetan-pawar-21/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/chetan-pawar-21/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chetan-pawar-21/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/chetan-pawar-21/DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/chetan-pawar-21/DSA/tree/master/0994-rotting-oranges) |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/chetan-pawar-21/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chetan-pawar-21/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chetan-pawar-21/DSA/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/chetan-pawar-21/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chetan-pawar-21/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/chetan-pawar-21/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/chetan-pawar-21/DSA/tree/master/0547-number-of-provinces) |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/chetan-pawar-21/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chetan-pawar-21/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chetan-pawar-21/DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
@@ -48,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/chetan-pawar-21/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chetan-pawar-21/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/chetan-pawar-21/DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/chetan-pawar-21/DSA/tree/master/0994-rotting-oranges) |
