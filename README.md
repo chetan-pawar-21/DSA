@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/chetan-pawar-21/DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/chetan-pawar-21/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/chetan-pawar-21/DSA/tree/master/1020-number-of-enclaves) |
+| [3875-construct-uniform-parity-array-i](https://github.com/chetan-pawar-21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/chetan-pawar-21/DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/chetan-pawar-21/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/chetan-pawar-21/DSA/tree/master/1020-number-of-enclaves) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/chetan-pawar-21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
