@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chetan-pawar-21/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chetan-pawar-21/DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/chetan-pawar-21/DSA/tree/master/1020-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/chetan-pawar-21/DSA/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/chetan-pawar-21/DSA/tree/master/0547-number-of-provinces) |
+| [1192-critical-connections-in-a-network](https://github.com/chetan-pawar-21/DSA/tree/master/1192-critical-connections-in-a-network) |
 ## Matrix
 |  |
 | ------- |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/chetan-pawar-21/DSA/tree/master/3903-smallest-stable-index-i) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/chetan-pawar-21/DSA/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/chetan-pawar-21/DSA/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
