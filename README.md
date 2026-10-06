@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chetan-pawar-21/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/chetan-pawar-21/DSA/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/chetan-pawar-21/DSA/tree/master/1192-critical-connections-in-a-network) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/chetan-pawar-21/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
