@@ -89,8 +89,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/chetan-pawar-21/DSA/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/chetan-pawar-21/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/chetan-pawar-21/DSA/tree/master/0039-combination-sum) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/chetan-pawar-21/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/chetan-pawar-21/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
