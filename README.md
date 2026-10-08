@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/chetan-pawar-21/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/chetan-pawar-21/DSA/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/chetan-pawar-21/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/chetan-pawar-21/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetan-pawar-21/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/chetan-pawar-21/DSA/tree/master/0130-surrounded-regions) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/chetan-pawar-21/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/chetan-pawar-21/DSA/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/chetan-pawar-21/DSA/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/chetan-pawar-21/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/chetan-pawar-21/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
