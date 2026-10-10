@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chetan-pawar-21/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chetan-pawar-21/DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/chetan-pawar-21/DSA/tree/master/1020-number-of-enclaves) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/chetan-pawar-21/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1192-critical-connections-in-a-network](https://github.com/chetan-pawar-21/DSA/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/chetan-pawar-21/DSA/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/chetan-pawar-21/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/chetan-pawar-21/DSA/tree/master/1020-number-of-enclaves) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/chetan-pawar-21/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Union-Find
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/chetan-pawar-21/DSA/tree/master/0547-number-of-provinces) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/chetan-pawar-21/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1192-critical-connections-in-a-network](https://github.com/chetan-pawar-21/DSA/tree/master/1192-critical-connections-in-a-network) |
 ## Matrix
 |  |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/chetan-pawar-21/DSA/tree/master/0037-sudoku-solver) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/chetan-pawar-21/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
