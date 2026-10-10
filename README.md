@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetan-pawar-21/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/chetan-pawar-21/DSA/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/chetan-pawar-21/DSA/tree/master/0542-01-matrix) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/chetan-pawar-21/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/chetan-pawar-21/DSA/tree/master/0131-palindrome-partitioning) |
 | [1021-remove-outermost-parentheses](https://github.com/chetan-pawar-21/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/chetan-pawar-21/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/chetan-pawar-21/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chetan-pawar-21/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/chetan-pawar-21/DSA/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
