@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/chetan-pawar-21/DSA/tree/master/0060-permutation-sequence) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chetan-pawar-21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chetan-pawar-21/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/chetan-pawar-21/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/chetan-pawar-21/DSA/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
