@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetan-pawar-21/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/chetan-pawar-21/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chetan-pawar-21/DSA/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/chetan-pawar-21/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/chetan-pawar-21/DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/chetan-pawar-21/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/chetan-pawar-21/DSA/tree/master/1020-number-of-enclaves) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chetan-pawar-21/DSA/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/chetan-pawar-21/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/chetan-pawar-21/DSA/tree/master/0037-sudoku-solver) |
+| [0347-top-k-frequent-elements](https://github.com/chetan-pawar-21/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Dancing Links
 |  |
 | ------- |
@@ -153,4 +156,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chetan-pawar-21/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chetan-pawar-21/DSA/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chetan-pawar-21/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chetan-pawar-21/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chetan-pawar-21/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chetan-pawar-21/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
