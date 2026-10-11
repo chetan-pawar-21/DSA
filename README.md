@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/chetan-pawar-21/DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/chetan-pawar-21/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/chetan-pawar-21/DSA/tree/master/1020-number-of-enclaves) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chetan-pawar-21/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chetan-pawar-21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chetan-pawar-21/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/chetan-pawar-21/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/chetan-pawar-21/DSA/tree/master/0060-permutation-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chetan-pawar-21/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
