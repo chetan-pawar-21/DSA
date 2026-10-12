@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chetan-pawar-21/DSA/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/chetan-pawar-21/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/chetan-pawar-21/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/chetan-pawar-21/DSA/tree/master/0040-combination-sum-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chetan-pawar-21/DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/chetan-pawar-21/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chetan-pawar-21/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetan-pawar-21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetan-pawar-21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/chetan-pawar-21/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
