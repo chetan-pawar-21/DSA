@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chetan-pawar-21/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/chetan-pawar-21/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chetan-pawar-21/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chetan-pawar-21/DSA/tree/master/0547-number-of-provinces) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chetan-pawar-21/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/chetan-pawar-21/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -192,9 +194,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chetan-pawar-21/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/chetan-pawar-21/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chetan-pawar-21/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/chetan-pawar-21/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
