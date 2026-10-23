@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/chetan-pawar-21/DSA/tree/master/1020-number-of-enclaves) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chetan-pawar-21/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chetan-pawar-21/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/chetan-pawar-21/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chetan-pawar-21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chetan-pawar-21/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/chetan-pawar-21/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/chetan-pawar-21/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chetan-pawar-21/DSA/tree/master/0090-subsets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/chetan-pawar-21/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Algorithm X
 |  |
 | ------- |
