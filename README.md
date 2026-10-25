@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/chetan-pawar-21/DSA/tree/master/0060-permutation-sequence) |
+| [2409-count-days-spent-together](https://github.com/chetan-pawar-21/DSA/tree/master/2409-count-days-spent-together) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chetan-pawar-21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chetan-pawar-21/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chetan-pawar-21/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/chetan-pawar-21/DSA/tree/master/0131-palindrome-partitioning) |
 | [1021-remove-outermost-parentheses](https://github.com/chetan-pawar-21/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [2409-count-days-spent-together](https://github.com/chetan-pawar-21/DSA/tree/master/2409-count-days-spent-together) |
 ## Backtracking
 |  |
 | ------- |
