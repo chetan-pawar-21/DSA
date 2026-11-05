@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/chetan-pawar-21/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/chetan-pawar-21/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/chetan-pawar-21/DSA/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chetan-pawar-21/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chetan-pawar-21/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chetan-pawar-21/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chetan-pawar-21/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chetan-pawar-21/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chetan-pawar-21/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetan-pawar-21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chetan-pawar-21/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chetan-pawar-21/DSA/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/chetan-pawar-21/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chetan-pawar-21/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chetan-pawar-21/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chetan-pawar-21/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Depth-First Search
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetan-pawar-21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chetan-pawar-21/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chetan-pawar-21/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
