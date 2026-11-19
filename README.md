@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/chetan-pawar-21/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chetan-pawar-21/DSA/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/chetan-pawar-21/DSA/tree/master/0191-number-of-1-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/chetan-pawar-21/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Algorithm X
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/chetan-pawar-21/DSA/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/chetan-pawar-21/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
